@@ -1,8 +1,7 @@
-# CodSoft Java Development Internship
-Welcome to the CodSoft Java Development Internship repository! This repository documents my progress and assignments during my internship journey. Here, I'll be working on a set of tasks to enhance my skills and knowledge in Java development.
+# CodSoft Java Internship
+Welcome to the CodSoft Java Internship repository! This repository documents my progress and assignments during my internship journey. Here, I'll be working on a set of tasks to enhance my skills and knowledge in Java development.
 
 # Tasks Overview
-
 
 # Task 1: Number Guessing Game
    * Generate random numbers, prompt user guesses, and provide feedback.
@@ -26,4 +25,4 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 
 
 # CODSOFT
-# CodSoft Java Development internship
+# CodSoft Java Internship
